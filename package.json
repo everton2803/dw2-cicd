@@ -1,0 +1,21 @@
+{
+  "name": "dw2-cicd",
+  "version": "1.0.0",
+  "description": "Projeto exemplo para CI/CD com Node.js",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node --test src/index.test.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "keywords": [
+    "cicd",
+    "nodejs",
+    "api"
+  ],
+  "author": "",
+  "license": "MIT"
+}
