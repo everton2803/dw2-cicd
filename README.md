@@ -35,3 +35,5 @@ O pipeline configurado em `.github/workflows/ci-cd.yml` faz:
 ## Permissões necessárias
 
 Para publicar a imagem no GHCR, o workflow usa o `GITHUB_TOKEN`. Se o repositório tiver restrições de pacotes, configure em **Settings > Actions > General > Workflow permissions** a permissão **Read and write permissions**.
+
+Testando
